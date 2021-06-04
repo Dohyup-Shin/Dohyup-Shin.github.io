@@ -9,3 +9,4 @@ CV
 
 [CV.pdf](https://github.com/Dohyup-Shin/Dohyup-Shin.github.io/files/6597703/CV.pdf)
 
+Hi I am a graduate student of Department of Statistics at Seoul National University. I was awarded a bachelor's degree from Sogang University(2021.2)
